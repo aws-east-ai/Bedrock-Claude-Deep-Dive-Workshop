@@ -1,10 +1,6 @@
-# Amazon Bedrock Workshop
+# Amazon Bedrock and Claude Deep Dive Workshop
 
-This hands-on workshop, aimed at developers and solution builders, introduces how to leverage foundation models (FMs) through [Amazon Bedrock](https://aws.amazon.com/bedrock/).
-
-Amazon Bedrock is a fully managed service that provides access to FMs from third-party providers and Amazon; available via an API. With Bedrock, you can choose from a variety of models to find the one that’s best suited for your use case.
-
-Within this series of labs, you'll explore some of the most common usage patterns we are seeing with our customers for Generative AI. We will show techniques for generating text and images, creating value for organizations by improving productivity. This is achieved by leveraging foundation models to help in composing emails, summarizing text, answering questions, building chatbots, and creating images. While the focus of this workshop is for you to gain hands-on experience implementing these patterns via Bedrock APIs and SDKs, you will also have the option of exploring integrations with open-source packages like [LangChain](https://python.langchain.com/docs/get_started/introduction) and [FAISS](https://faiss.ai/index.html).
+This hands-on workshop, aimed at developers and solution builders, introduces how to leverage foundation models (FMs) e.g. Titan and Claude 3 through [Amazon Bedrock](https://aws.amazon.com/bedrock/).
 
 Labs include:
 
@@ -12,34 +8,20 @@ Labs include:
     - Text generation with Bedrock
     - Text summarization with Titan and Claude
     - QnA with Titan
-    - Entity extraction
 - **02 - Knowledge bases and RAG** \[Estimated time to complete - 45 mins\]
     - Managed RAG retrieve and generate example
     - Langchain RAG retrieve and generate example
-- **03 - Model customization** \[Estimated time to complete - 30 mins\]
-    - Coming soon
-- **04 - Image and Multimodal** \[Estimated time to complete - 30 mins\]
-    - Bedrock Titan image generator
-    - Bedrock Stable Diffusion XL
+- **03 - Image and Multimodal** \[Estimated time to complete - 30 mins\]
     - Bedrock Titan Multimodal embeddings
+    - Multimodal RAG
+- **04 - Tool Use** \[Estimated time to complete - 45 mins\]
+    - Tool use workflow
+    - Chatbot with tool use
 - **05 - Agents** \[Estimated time to complete - 30 mins\]
     - Customer service agent
     - Insurance claims agent
-- **06 - Open source examples (optional)** \[Estimated time to complete - 30 mins\]
-    - Langchain Text Generation examples
-    - Langchain KB RAG examples
-    - Langchain Chatbot examples
-    - NVIDIA NeMo Guardrails examples
-    - NodeJS Bedrock examples
-
-<div align="center">
-
-![imgs/11-overview](imgs/11-overview.png "Overview of the different labs in the workshop")
-
-</div>
-
-You can also refer to these [Step-by-step guided instructions on the workshop website](https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US).
-
+- **06 - Security and Gorvernance** \[Estimated time to complete - 30 mins\]
+    - Bedrock guardrails
 
 ## Getting started
 
