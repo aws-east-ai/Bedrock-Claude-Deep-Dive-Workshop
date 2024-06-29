@@ -24,7 +24,6 @@ We will generate an email response to a customer where the customer had provided
 2. [Zero-shot Text Generation with Anthropic Claude](01_code_generatation_w_bedrock.ipynb) - Invokes Anthropic's Claude Text model using Bedrock API to generate Python code using Natural language. It shows examples of prompting to generate simple functions, classes, and full programs in Python for Data Analyst to perform sales analysis on a given Sales CSV dataset.
 3. [Text summarization with Amazon Titan and Anthropic Claude](./02_text-summarization-titan+claude.ipynb) - Invoke Amazon Titan large text model and Anthropic's Claude Text model using Bedrock API to generate summary of provided text.
 4. [Question and answers with Bedrock using Amazon Titan](./03_qa_with_bedrock_titan.ipynb) - Invoke Amazon Titan large text model to answer questions using models knowledge, check an example of hallucination, and using prompt engineering to address hallcination.
-5. [Entity Extraction with Anthropic Claude](./04_entity_extraction.ipynb) - Invoke Anthropic's Claude Text model to extract name of book from a given email text.
 
 
 ## Setup

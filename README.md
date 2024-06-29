@@ -72,7 +72,7 @@ Once your notebook environment is set up, clone this workshop repository into it
 
 ```sh
 git clone https://github.com/aws-east-ai/Bedrock-Claude-Deep-Dive-Workshop
-cd amazon-bedrock-workshop
+cd Bedrock-Claude-Deep-Dive-Workshop
 ```
 
 
