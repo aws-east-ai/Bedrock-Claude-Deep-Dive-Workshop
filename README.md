@@ -4,14 +4,15 @@ This hands-on workshop, aimed at developers and solution builders, introduces ho
 
 Labs include:
 
-- **01 - Text Generation** \[Estimated time to complete - 45 mins\]
+- **01 - Text Generation** \[Estimated time to complete - 20 mins\]
     - Text generation with Bedrock
     - Text summarization with Titan and Claude
     - QnA with Titan
 - **02 - Knowledge bases and RAG** \[Estimated time to complete - 45 mins\]
     - Managed RAG retrieve and generate example
     - Langchain RAG retrieve and generate example
-- **03 - Image and Multimodal** \[Estimated time to complete - 30 mins\]
+- **03 - Image and Multimodal** \[Estimated time to complete - 45 mins\]
+    - Image understanding & visual QA
     - Bedrock Titan Multimodal embeddings
     - Multimodal RAG
 - **04 - Tool Use** \[Estimated time to complete - 45 mins\]
@@ -70,8 +71,7 @@ For more information on the fine-grained action and resource permissions in Bedr
 Once your notebook environment is set up, clone this workshop repository into it.
 
 ```sh
-sudo yum install -y unzip
-git clone https://github.com/aws-samples/amazon-bedrock-workshop.git
+git clone https://github.com/aws-east-ai/Bedrock-Claude-Deep-Dive-Workshop
 cd amazon-bedrock-workshop
 ```
 
