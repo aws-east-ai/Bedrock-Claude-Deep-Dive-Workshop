@@ -19,8 +19,8 @@ Labs include:
     - Tool use workflow
     - Chatbot with tool use
 - **05 - Agents** \[Estimated time to complete - 30 mins\]
-    - Customer service agent
-    - Insurance claims agent
+    - Restaurant agent
+    - Agent with action and knowledge base
 - **06 - Security and Gorvernance** \[Estimated time to complete - 30 mins\]
     - Bedrock guardrails
 
