@@ -8,7 +8,7 @@ An example of the new mulimodal capability of the Claude 3 model is shown below 
 
 With the Amazon Titan Multimodal Embeddings G1 model, you can create embeddings for multimodal data, specifically text and image data. These embeddings can then be used for multimodal search and Retrieval Augmented Generation (RAG) use-cases, for example searching images by text only, images only or a combination of text and images. In addition, an example of using Claude 3's vision capabilities and Titan Multomodal Embeddings model in a RAG workflow is shown using Langchain.
 
-## Workshop notebooks
+## Workshop labs
 
 1. **Image understanding and visual QA**: In this module, you will learn how to read and understand images using Claude 3 and some best practices. This module uses 3 files: `01_how_to_transcribe_text.ipynb`, `02_reading_charts_graphs_powerpoints.ipynb` and `03_best_practices_for_claude3_bedrock.ipynb`.
 2. **Multimodal embedding and searching**: In this module, you will learn how to embed and search images with multimodality. This module uses `04_bedrock-titan-multimodal-embeddings.ipynb` file.
