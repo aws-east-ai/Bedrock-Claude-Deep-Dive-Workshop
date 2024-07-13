@@ -32,7 +32,7 @@ In build-time, all these components are gathered to construct base prompts for t
 Architects, data scientists and developer who want to learn how to use Agents for Amazon Bedrock to create generative AI applications. 
 From the simplest instruction only agent to complex assistants that combine Action Groups with Knowledge Bases, you can use the power of agents to quickly develop your Generative API application.
 
-## Workshop Notebooks
+## Workshop Labs
 During this workshop, you will cover three modules:
 
 1. **Building Agents for Bedrock using Boto3 SDK**: In this module, you will create agents for Bedrock programmatically using the restaurant agent example. This module uses the `01_create_agent.ipynb` file
