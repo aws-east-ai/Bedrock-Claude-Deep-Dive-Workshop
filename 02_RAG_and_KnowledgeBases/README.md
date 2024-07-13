@@ -1,6 +1,6 @@
 # Lab 2 - RAG and Amazon Bedrock Knowledge Base
 
-## Contents
+## Workshop labs
 - [01_simple-rag-langchain.ipynb](./01_simple-rag-langchain.ipynb) - Simple RAG with Claude 3 and LangChain.
 - [02_create_ingest_documents_test_kb.ipynb](./02_create_ingest_documents_test_kb.ipynb) - creates necessary role and policies required using the `utility.py` file. It uses the roles and policies to create Open Search Serverless vector index, knowledge base, data source, and then ingests the documents to the vector store. Once the documents are ingested it will then test the knowledge base using `RetrieveAndGenerate` API for question answering, and `Retrieve` API for fetching relevant documents. Finally, it deletes all the resources. If you want to continue with other notebooks, you can choose not to delete the resources and move to other notebooks. Please note, that if you do not delete the resources, you may be incurred cost of storing data in OpenSearch Serverless, even if you are not using it. Therefore, once you are done with trying out the sample code, make sure to delete all the resources. 
 

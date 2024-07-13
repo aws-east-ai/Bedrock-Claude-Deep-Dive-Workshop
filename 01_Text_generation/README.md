@@ -17,7 +17,7 @@ Some of the business use cases for text generation include:
 - Code Translation, code explain and reviews
 
 
-## Workshop Notebooks
+## Workshop labs
 
 We will generate an email response to a customer where the customer had provided negative feedback on service received from a customer support engineer. The text generation workshop includes the following three notebooks. 
 1. [Generate Email with Amazon Titan](./00_text_generation_w_bedrock.ipynb) - Invokes Amazon Titan large text model using Bedrock API to generate an email response to a customer. It uses a zero-shot prompt without context as instruction to the model. 

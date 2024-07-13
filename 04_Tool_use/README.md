@@ -11,7 +11,7 @@ Define a toolset for Claude and specify your request in natural language. Claude
 
 You can get started with tool use on Amazon Bedrock and build a customer service Chatbot in this lab.
 
-## Workshop Labs
+## Workshop labs
 1. Simple tool use `04_Tool_use/01_tool_use_overview.ipynb` 
 2. Tool use complete workflow `04_Tool_use/02_complete_workflow.ipynb` 
 3. Use vision with tools `04_Tool_use/03_vision_with_tools.ipynb` 
