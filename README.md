@@ -8,7 +8,8 @@ Labs include:
     - Text generation with Bedrock
     - Text summarization with Titan and Claude
     - QnA with Titan
-- **02 - Knowledge bases and RAG** \[Estimated time to complete - 45 mins\]
+- **02 - RAG and Knowledge bases** \[Estimated time to complete - 45 mins\]
+    - Simple RAG with Claude 3 and LangChain
     - Managed RAG retrieve and generate example
     - Langchain RAG retrieve and generate example
 - **03 - Image and Multimodal** \[Estimated time to complete - 45 mins\]
