@@ -1,4 +1,4 @@
-# Lab 3 Multimodal
+# Lab 3 - Multimodal
 
 ## Overview
 

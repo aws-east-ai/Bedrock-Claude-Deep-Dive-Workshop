@@ -1,4 +1,4 @@
-# Lab 4 Tool use (function calling)
+# Lab 4 - Tool use (function calling)
 
 ## Tool use
 Define a toolset for Claude and specify your request in natural language. Claude will then select the appropriate tool to fulfill the task and, when appropriate, execute the corresponding action:

@@ -1,4 +1,4 @@
-# Lab 2 Amazon Bedrock Knowledge Base - Samples for building RAG workflows
+# Lab 2 - RAG and Amazon Bedrock Knowledge Base
 
 ## Contents
 - [01_simple-rag-langchain.ipynb](./01_simple-rag-langchain.ipynb) - Simple RAG with Claude 3 and LangChain.
@@ -14,7 +14,7 @@ Remember to use the [99_CLEAN_UP.ipynb](./99\_CLEAN_UP.ipynb)
 ***
 
 ### Note
-If you use the notebook - [02_create_ingest_documents_test_kb.ipynb](./01\_create_ingest_documents_test_kb.ipynb) for creating the knowledge bases and do not delete the resources, you may be incurred cost of storing data in OpenSearch Serverless, even if you are not using it. Therefore, once you are done with trying out the sample code, make sure to delete all the resources. 
+If you use the notebook - [02_create_ingest_documents_test_kb.ipynb](./02_create_ingest_documents_test_kb.ipynb) for creating the knowledge bases and do not delete the resources, you may be incurred cost of storing data in OpenSearch Serverless, even if you are not using it. Therefore, once you are done with trying out the sample code, make sure to delete all the resources. 
 
 ## Contributing
 
